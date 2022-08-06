@@ -21,53 +21,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "temp/tutorial-basics/congratulations",
+              "path": "/docs/temp/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "temp/tutorial-basics/create-a-blog-post",
+              "path": "/docs/temp/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "temp/tutorial-basics/create-a-document",
+              "path": "/docs/temp/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "temp/tutorial-basics/create-a-page",
+              "path": "/docs/temp/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "temp/tutorial-basics/deploy-your-site",
+              "path": "/docs/temp/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "temp/tutorial-basics/markdown-features",
+              "path": "/docs/temp/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "temp/tutorial-extras/manage-docs-versions",
+              "path": "/docs/temp/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "temp/tutorial-extras/translate-your-site",
+              "path": "/docs/temp/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "vision-transformers",
-              "path": "/docs/vision-transformers",
+              "id": "vision-transformers/maes",
+              "path": "/docs/vision-transformers/maes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vision-transformers/vision-transformers",
+              "path": "/docs/vision-transformers/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/self-supervision",
               "path": "/docs/category/self-supervision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/vision-transformers",
+              "path": "/docs/category/vision-transformers",
               "sidebar": "tutorialSidebar"
             },
             {

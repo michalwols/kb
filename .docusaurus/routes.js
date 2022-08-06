@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '638'),
+    component: ComponentCreator('/docs', 'e88'),
     routes: [
       {
         path: '/docs/category/self-supervision',
@@ -120,6 +120,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/vision-transformers',
+        component: ComponentCreator('/docs/category/vision-transformers', '3b2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
@@ -132,56 +138,62 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/docs/temp/tutorial-basics/congratulations',
+        component: ComponentCreator('/docs/temp/tutorial-basics/congratulations', '9c5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+        path: '/docs/temp/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docs/temp/tutorial-basics/create-a-blog-post', '075'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+        path: '/docs/temp/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docs/temp/tutorial-basics/create-a-document', 'c34'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+        path: '/docs/temp/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docs/temp/tutorial-basics/create-a-page', 'b36'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+        path: '/docs/temp/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docs/temp/tutorial-basics/deploy-your-site', '4a5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        path: '/docs/temp/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docs/temp/tutorial-basics/markdown-features', '810'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+        path: '/docs/temp/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docs/temp/tutorial-extras/manage-docs-versions', '85f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/docs/temp/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docs/temp/tutorial-extras/translate-your-site', '1c5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/vision-transformers',
-        component: ComponentCreator('/docs/vision-transformers', 'a63'),
+        component: ComponentCreator('/docs/vision-transformers', 'ee8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vision-transformers/maes',
+        component: ComponentCreator('/docs/vision-transformers/maes', '570'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

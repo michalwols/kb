@@ -19,9 +19,5 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/docs/tutorial-extras/manage-docs-versions"
-  },
-  "next": {
-    "title": "Transformers in Vision",
-    "permalink": "/docs/vision-transformers"
   }
 }

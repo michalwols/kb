@@ -1,0 +1,8 @@
+{
+  "label": "Vision Transformers",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Transformers in Vision",
+  }
+}

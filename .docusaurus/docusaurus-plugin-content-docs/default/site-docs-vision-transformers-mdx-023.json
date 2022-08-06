@@ -2,7 +2,7 @@
   "unversionedId": "vision-transformers",
   "id": "vision-transformers",
   "title": "Transformers in Vision",
-  "description": "",
+  "description": "ViT",
   "source": "@site/docs/vision-transformers.mdx",
   "sourceDirName": ".",
   "slug": "/vision-transformers",
