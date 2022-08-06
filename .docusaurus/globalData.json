@@ -1,93 +1,93 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/kb/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/kb/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/kb/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "self-supervision/maes",
-              "path": "/docs/self-supervision/maes",
+              "path": "/kb/docs/self-supervision/maes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/congratulations",
-              "path": "/docs/temp/tutorial-basics/congratulations",
+              "path": "/kb/docs/temp/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/create-a-blog-post",
-              "path": "/docs/temp/tutorial-basics/create-a-blog-post",
+              "path": "/kb/docs/temp/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/create-a-document",
-              "path": "/docs/temp/tutorial-basics/create-a-document",
+              "path": "/kb/docs/temp/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/create-a-page",
-              "path": "/docs/temp/tutorial-basics/create-a-page",
+              "path": "/kb/docs/temp/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/deploy-your-site",
-              "path": "/docs/temp/tutorial-basics/deploy-your-site",
+              "path": "/kb/docs/temp/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-basics/markdown-features",
-              "path": "/docs/temp/tutorial-basics/markdown-features",
+              "path": "/kb/docs/temp/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-extras/manage-docs-versions",
-              "path": "/docs/temp/tutorial-extras/manage-docs-versions",
+              "path": "/kb/docs/temp/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "temp/tutorial-extras/translate-your-site",
-              "path": "/docs/temp/tutorial-extras/translate-your-site",
+              "path": "/kb/docs/temp/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vision-transformers/maes",
-              "path": "/docs/vision-transformers/maes",
+              "path": "/kb/docs/vision-transformers/maes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vision-transformers/vision-transformers",
-              "path": "/docs/vision-transformers/",
+              "path": "/kb/docs/vision-transformers/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/self-supervision",
-              "path": "/docs/category/self-supervision",
+              "path": "/kb/docs/category/self-supervision",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/vision-transformers",
-              "path": "/docs/category/vision-transformers",
+              "path": "/kb/docs/category/vision-transformers",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "path": "/kb/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "path": "/kb/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -95,7 +95,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/kb/docs/intro",
                 "label": "intro"
               }
             }

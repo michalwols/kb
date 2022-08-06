@@ -6,7 +6,7 @@
   "source": "@site/docs/self-supervision/maes.mdx",
   "sourceDirName": "self-supervision",
   "slug": "/self-supervision/maes",
-  "permalink": "/docs/self-supervision/maes",
+  "permalink": "/kb/docs/self-supervision/maes",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/self-supervision/maes.mdx",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Self Supervision",
-    "permalink": "/docs/category/self-supervision"
+    "permalink": "/kb/docs/category/self-supervision"
   },
   "next": {
     "title": "Vision Transformers",
-    "permalink": "/docs/category/vision-transformers"
+    "permalink": "/kb/docs/category/vision-transformers"
   }
 }

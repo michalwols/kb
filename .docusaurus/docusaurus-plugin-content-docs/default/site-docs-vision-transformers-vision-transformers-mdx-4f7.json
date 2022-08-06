@@ -6,7 +6,7 @@
   "source": "@site/docs/vision-transformers/vision-transformers.mdx",
   "sourceDirName": "vision-transformers",
   "slug": "/vision-transformers/",
-  "permalink": "/docs/vision-transformers/",
+  "permalink": "/kb/docs/vision-transformers/",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vision-transformers/vision-transformers.mdx",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Masked Autoencoders",
-    "permalink": "/docs/vision-transformers/maes"
+    "permalink": "/kb/docs/vision-transformers/maes"
   },
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "permalink": "/kb/docs/category/tutorial---basics"
   }
 }

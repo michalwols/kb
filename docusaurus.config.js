@@ -9,7 +9,7 @@ const config = {
   title: 'KB',
   tagline: ' my personal notes on machine learning and computer vision',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/kb/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
