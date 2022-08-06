@@ -1,0 +1,8 @@
+{
+  "label": "Self Supervision",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Self Supervised Learning",
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Self Supervision",
+  "description": "Self Supervised Learning",
+  "slug": "/category/self-supervision",
+  "permalink": "/docs/category/self-supervision",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Masked Autoencoders",
+      "permalink": "/docs/self-supervision/maes"
+    }
+  }
+}
