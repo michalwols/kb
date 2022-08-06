@@ -37,7 +37,7 @@
         "items": [
           {
             "type": "link",
-            "label": "transformers",
+            "label": "Transformers",
             "href": "/kb/docs/vision-transformers/transformers",
             "docId": "vision-transformers/transformers"
           },
@@ -52,7 +52,7 @@
       },
       {
         "type": "link",
-        "label": "optimization",
+        "label": "Optimization",
         "href": "/kb/docs/optimization",
         "docId": "optimization"
       },
@@ -141,8 +141,8 @@
     },
     "optimization": {
       "id": "optimization",
-      "title": "optimization",
-      "description": "",
+      "title": "Optimization",
+      "description": "Optimizers",
       "sidebar": "tutorialSidebar"
     },
     "self-supervision/maes": {
@@ -201,8 +201,8 @@
     },
     "vision-transformers/transformers": {
       "id": "vision-transformers/transformers",
-      "title": "transformers",
-      "description": "",
+      "title": "Transformers",
+      "description": "https://github.com/markriedl/transformer-walkthrough",
       "sidebar": "tutorialSidebar"
     },
     "vision-transformers/vision-transformers": {
