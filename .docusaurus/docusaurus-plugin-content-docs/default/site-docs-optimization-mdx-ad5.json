@@ -1,8 +1,8 @@
 {
   "unversionedId": "optimization",
   "id": "optimization",
-  "title": "optimization",
-  "description": "",
+  "title": "Optimization",
+  "description": "Optimizers",
   "source": "@site/docs/optimization.mdx",
   "sourceDirName": ".",
   "slug": "/optimization",

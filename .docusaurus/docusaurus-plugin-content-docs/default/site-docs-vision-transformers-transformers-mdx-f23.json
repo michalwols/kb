@@ -1,8 +1,8 @@
 {
   "unversionedId": "vision-transformers/transformers",
   "id": "vision-transformers/transformers",
-  "title": "transformers",
-  "description": "",
+  "title": "Transformers",
+  "description": "https://github.com/markriedl/transformer-walkthrough",
   "source": "@site/docs/vision-transformers/transformers.mdx",
   "sourceDirName": "vision-transformers",
   "slug": "/vision-transformers/transformers",

@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "transformers",
+    "title": "Transformers",
     "permalink": "/kb/docs/vision-transformers/transformers"
   },
   "next": {
-    "title": "optimization",
+    "title": "Optimization",
     "permalink": "/kb/docs/optimization"
   }
 }

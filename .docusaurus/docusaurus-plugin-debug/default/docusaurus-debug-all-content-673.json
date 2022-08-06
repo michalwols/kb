@@ -44,8 +44,8 @@
             {
               "unversionedId": "optimization",
               "id": "optimization",
-              "title": "optimization",
-              "description": "",
+              "title": "Optimization",
+              "description": "Optimizers",
               "source": "@site/docs/optimization.mdx",
               "sourceDirName": ".",
               "slug": "/optimization",
@@ -304,8 +304,8 @@
             {
               "unversionedId": "vision-transformers/transformers",
               "id": "vision-transformers/transformers",
-              "title": "transformers",
-              "description": "",
+              "title": "Transformers",
+              "description": "https://github.com/markriedl/transformer-walkthrough",
               "source": "@site/docs/vision-transformers/transformers.mdx",
               "sourceDirName": "vision-transformers",
               "slug": "/vision-transformers/transformers",
@@ -341,11 +341,11 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "transformers",
+                "title": "Transformers",
                 "permalink": "/kb/docs/vision-transformers/transformers"
               },
               "next": {
-                "title": "optimization",
+                "title": "Optimization",
                 "permalink": "/kb/docs/optimization"
               }
             }
