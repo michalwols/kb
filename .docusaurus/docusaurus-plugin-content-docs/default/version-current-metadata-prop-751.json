@@ -37,9 +37,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Masked Autoencoders",
-            "href": "/kb/docs/vision-transformers/maes",
-            "docId": "vision-transformers/maes"
+            "label": "transformers",
+            "href": "/kb/docs/vision-transformers/transformers",
+            "docId": "vision-transformers/transformers"
           },
           {
             "type": "link",
@@ -49,6 +49,12 @@
           }
         ],
         "href": "/kb/docs/category/vision-transformers"
+      },
+      {
+        "type": "link",
+        "label": "optimization",
+        "href": "/kb/docs/optimization",
+        "docId": "optimization"
       },
       {
         "type": "category",
@@ -133,6 +139,12 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "optimization": {
+      "id": "optimization",
+      "title": "optimization",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "self-supervision/maes": {
       "id": "self-supervision/maes",
       "title": "Masked Autoencoders",
@@ -187,9 +199,9 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "vision-transformers/maes": {
-      "id": "vision-transformers/maes",
-      "title": "Masked Autoencoders",
+    "vision-transformers/transformers": {
+      "id": "vision-transformers/transformers",
+      "title": "transformers",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

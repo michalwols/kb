@@ -42,6 +42,30 @@
               }
             },
             {
+              "unversionedId": "optimization",
+              "id": "optimization",
+              "title": "optimization",
+              "description": "",
+              "source": "@site/docs/optimization.mdx",
+              "sourceDirName": ".",
+              "slug": "/optimization",
+              "permalink": "/kb/docs/optimization",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/optimization.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transformers in Vision",
+                "permalink": "/kb/docs/vision-transformers/"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/kb/docs/category/tutorial---basics"
+              }
+            },
+            {
               "unversionedId": "self-supervision/maes",
               "id": "self-supervision/maes",
               "title": "Masked Autoencoders",
@@ -278,16 +302,16 @@
               }
             },
             {
-              "unversionedId": "vision-transformers/maes",
-              "id": "vision-transformers/maes",
-              "title": "Masked Autoencoders",
+              "unversionedId": "vision-transformers/transformers",
+              "id": "vision-transformers/transformers",
+              "title": "transformers",
               "description": "",
-              "source": "@site/docs/vision-transformers/maes.mdx",
+              "source": "@site/docs/vision-transformers/transformers.mdx",
               "sourceDirName": "vision-transformers",
-              "slug": "/vision-transformers/maes",
-              "permalink": "/kb/docs/vision-transformers/maes",
+              "slug": "/vision-transformers/transformers",
+              "permalink": "/kb/docs/vision-transformers/transformers",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vision-transformers/maes.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vision-transformers/transformers.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -317,12 +341,12 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Masked Autoencoders",
-                "permalink": "/kb/docs/vision-transformers/maes"
+                "title": "transformers",
+                "permalink": "/kb/docs/vision-transformers/transformers"
               },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/kb/docs/category/tutorial---basics"
+                "title": "optimization",
+                "permalink": "/kb/docs/optimization"
               }
             }
           ],
@@ -359,7 +383,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "vision-transformers/maes"
+                    "id": "vision-transformers/transformers"
                   },
                   {
                     "type": "doc",
@@ -372,6 +396,10 @@
                   "slug": "/category/vision-transformers",
                   "permalink": "/kb/docs/category/vision-transformers"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "optimization"
               },
               {
                 "type": "category",

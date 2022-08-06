@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "optimization",
+              "path": "/kb/docs/optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "self-supervision/maes",
               "path": "/kb/docs/self-supervision/maes",
               "sidebar": "tutorialSidebar"
@@ -61,8 +66,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "vision-transformers/maes",
-              "path": "/kb/docs/vision-transformers/maes",
+              "id": "vision-transformers/transformers",
+              "path": "/kb/docs/vision-transformers/transformers",
               "sidebar": "tutorialSidebar"
             },
             {

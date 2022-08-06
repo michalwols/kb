@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/kb/docs',
-    component: ComponentCreator('/kb/docs', '305'),
+    component: ComponentCreator('/kb/docs', 'a16'),
     routes: [
       {
         path: '/kb/docs/category/self-supervision',
@@ -128,6 +128,12 @@ export default [
       {
         path: '/kb/docs/intro',
         component: ComponentCreator('/kb/docs/intro', 'f5f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/optimization',
+        component: ComponentCreator('/kb/docs/optimization', '3a1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -192,8 +198,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/kb/docs/vision-transformers/maes',
-        component: ComponentCreator('/kb/docs/vision-transformers/maes', '6e4'),
+        path: '/kb/docs/vision-transformers/transformers',
+        component: ComponentCreator('/kb/docs/vision-transformers/transformers', '8c5'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

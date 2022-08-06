@@ -1,0 +1,24 @@
+{
+  "unversionedId": "vision-transformers/transformers",
+  "id": "vision-transformers/transformers",
+  "title": "transformers",
+  "description": "",
+  "source": "@site/docs/vision-transformers/transformers.mdx",
+  "sourceDirName": "vision-transformers",
+  "slug": "/vision-transformers/transformers",
+  "permalink": "/kb/docs/vision-transformers/transformers",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vision-transformers/transformers.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision Transformers",
+    "permalink": "/kb/docs/category/vision-transformers"
+  },
+  "next": {
+    "title": "Transformers in Vision",
+    "permalink": "/kb/docs/vision-transformers/"
+  }
+}

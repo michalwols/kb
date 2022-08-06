@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Masked Autoencoders",
-    "permalink": "/kb/docs/vision-transformers/maes"
+    "title": "transformers",
+    "permalink": "/kb/docs/vision-transformers/transformers"
   },
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/kb/docs/category/tutorial---basics"
+    "title": "optimization",
+    "permalink": "/kb/docs/optimization"
   }
 }

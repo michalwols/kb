@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/kb/docs-305": {
+  "/kb/docs-a16": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-69-d-1e2"
@@ -212,6 +212,10 @@
   "/kb/docs/intro-f5f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/kb/docs/optimization-3a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---kb-docs-optimizationad-5-5e1"
   },
   "/kb/docs/self-supervision/maes-300": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -253,9 +257,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-vision-transformers-4-f-7-b9f"
   },
-  "/kb/docs/vision-transformers/maes-6e4": {
+  "/kb/docs/vision-transformers/transformers-8c5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vision-transformers-maes-87-d-d66"
+    "content": "content---kb-docs-vision-transformers-transformersf-23-916"
   },
   "/kb/-c4f": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
