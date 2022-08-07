@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/kb/blog</id>
+    <id>https://michalwols.github.io/kb/blog</id>
     <title>KB Blog</title>
     <updated>2022-08-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/kb/blog"/>
+    <link rel="alternate" href="https://michalwols.github.io/kb/blog"/>
     <subtitle>KB Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/kb/img/favicon.ico</icon>
+    <icon>https://michalwols.github.io/kb/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>/2022/08/07/Hello</id>
-        <link href="https://your-docusaurus-test-site.com/kb/blog/2022/08/07/Hello"/>
+        <link href="https://michalwols.github.io/kb/blog/2022/08/07/Hello"/>
         <updated>2022-08-07T00:00:00.000Z</updated>
     </entry>
 </feed>
