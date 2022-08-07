@@ -36,46 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "temp/tutorial-basics/congratulations",
-              "path": "/kb/docs/temp/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-basics/create-a-blog-post",
-              "path": "/kb/docs/temp/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-basics/create-a-document",
-              "path": "/kb/docs/temp/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-basics/create-a-page",
-              "path": "/kb/docs/temp/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-basics/deploy-your-site",
-              "path": "/kb/docs/temp/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-basics/markdown-features",
-              "path": "/kb/docs/temp/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-extras/manage-docs-versions",
-              "path": "/kb/docs/temp/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "temp/tutorial-extras/translate-your-site",
-              "path": "/kb/docs/temp/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "todo/ann",
               "path": "/kb/docs/todo/ann",
               "sidebar": "tutorialSidebar"
@@ -178,16 +138,6 @@
             {
               "id": "/category/vision-transformers",
               "path": "/kb/docs/category/vision-transformers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/kb/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/kb/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],

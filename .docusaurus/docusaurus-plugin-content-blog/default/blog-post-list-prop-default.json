@@ -2,20 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/kb/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/kb/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/kb/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/kb/blog/first-blog-post"
+      "title": "Hello World",
+      "permalink": "/kb/blog/2022/08/07/Hello"
     }
   ]
 }
