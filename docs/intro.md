@@ -2,4 +2,6 @@
 sidebar_position: 1
 ---
 
-# KB
+# Intro
+
+Welcome to my random set of notes.
