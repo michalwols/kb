@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wip/nerf",
+  "id": "wip/nerf",
+  "title": "nerf",
+  "description": "",
+  "source": "@site/docs/wip/nerf.mdx",
+  "sourceDirName": "wip",
+  "slug": "/wip/nerf",
+  "permalink": "/kb/docs/wip/nerf",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wip/nerf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-label",
+    "permalink": "/kb/docs/wip/multi-label"
+  },
+  "next": {
+    "title": "ocr",
+    "permalink": "/kb/docs/wip/ocr"
+  }
+}

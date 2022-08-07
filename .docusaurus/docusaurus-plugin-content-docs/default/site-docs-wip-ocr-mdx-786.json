@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wip/ocr",
+  "id": "wip/ocr",
+  "title": "ocr",
+  "description": "",
+  "source": "@site/docs/wip/ocr.mdx",
+  "sourceDirName": "wip",
+  "slug": "/wip/ocr",
+  "permalink": "/kb/docs/wip/ocr",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wip/ocr.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nerf",
+    "permalink": "/kb/docs/wip/nerf"
+  },
+  "next": {
+    "title": "segmentation",
+    "permalink": "/kb/docs/wip/segmentation"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "todo/synthetic-data",
+  "id": "todo/synthetic-data",
+  "title": "synthetic-data",
+  "description": "",
+  "source": "@site/docs/todo/synthetic-data.mdx",
+  "sourceDirName": "todo",
+  "slug": "/todo/synthetic-data",
+  "permalink": "/kb/docs/todo/synthetic-data",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/todo/synthetic-data.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "semisup",
+    "permalink": "/kb/docs/todo/semisup"
+  }
+}

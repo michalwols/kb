@@ -1,0 +1,24 @@
+{
+  "unversionedId": "todo/multi-modal",
+  "id": "todo/multi-modal",
+  "title": "multi-modal",
+  "description": "",
+  "source": "@site/docs/todo/multi-modal.mdx",
+  "sourceDirName": "todo",
+  "slug": "/todo/multi-modal",
+  "permalink": "/kb/docs/todo/multi-modal",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/todo/multi-modal.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-label",
+    "permalink": "/kb/docs/todo/multi-label"
+  },
+  "next": {
+    "title": "multi-task",
+    "permalink": "/kb/docs/todo/multi-task"
+  }
+}

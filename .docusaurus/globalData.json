@@ -21,6 +21,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "resources",
+              "path": "/kb/docs/resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "self-supervision/contrastive",
+              "path": "/kb/docs/self-supervision/contrastive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "self-supervision/maes",
               "path": "/kb/docs/self-supervision/maes",
               "sidebar": "tutorialSidebar"
@@ -63,6 +73,91 @@
             {
               "id": "temp/tutorial-extras/translate-your-site",
               "path": "/kb/docs/temp/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/ann",
+              "path": "/kb/docs/todo/ann",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/detection",
+              "path": "/kb/docs/todo/detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/diffusion",
+              "path": "/kb/docs/todo/diffusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/distill",
+              "path": "/kb/docs/todo/distill",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/few-shot",
+              "path": "/kb/docs/todo/few-shot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/imitation-learning",
+              "path": "/kb/docs/todo/imitation-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/label-noise",
+              "path": "/kb/docs/todo/label-noise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/long-tail",
+              "path": "/kb/docs/todo/long-tail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/multi-label",
+              "path": "/kb/docs/todo/multi-label",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/multi-modal",
+              "path": "/kb/docs/todo/multi-modal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/multi-task",
+              "path": "/kb/docs/todo/multi-task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/nerf",
+              "path": "/kb/docs/todo/nerf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/ocr",
+              "path": "/kb/docs/todo/ocr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/retrieval-augmented",
+              "path": "/kb/docs/todo/retrieval-augmented",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/segmentation",
+              "path": "/kb/docs/todo/segmentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/semisup",
+              "path": "/kb/docs/todo/semisup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "todo/synthetic-data",
+              "path": "/kb/docs/todo/synthetic-data",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -22,6 +22,9 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "themes": [
+    "/Users/michalwolski/projects/kb/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js"
+  ],
   "presets": [
     [
       "classic",
@@ -341,7 +344,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "stylesheets": [],
   "clientModules": [],

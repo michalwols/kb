@@ -5,7 +5,7 @@
   "permalink": "/kb/docs/category/vision-transformers",
   "navigation": {
     "previous": {
-      "title": "Masked Autoencoders",
+      "title": "Masked Image Modeling",
       "permalink": "/kb/docs/self-supervision/maes"
     },
     "next": {

@@ -1,8 +1,8 @@
 {
   "unversionedId": "self-supervision/maes",
   "id": "self-supervision/maes",
-  "title": "Masked Autoencoders",
-  "description": "",
+  "title": "Masked Image Modeling",
+  "description": "Masked Autoencoders",
   "source": "@site/docs/self-supervision/maes.mdx",
   "sourceDirName": "self-supervision",
   "slug": "/self-supervision/maes",
@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Self Supervision",
-    "permalink": "/kb/docs/category/self-supervision"
+    "title": "Contrastive Self Supervised Learning",
+    "permalink": "/kb/docs/self-supervision/contrastive"
   },
   "next": {
     "title": "Vision Transformers",

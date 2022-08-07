@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/kb/__docusaurus/debug',
-    component: ComponentCreator('/kb/__docusaurus/debug', '71a'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/config',
-    component: ComponentCreator('/kb/__docusaurus/debug/config', 'bda'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/content',
-    component: ComponentCreator('/kb/__docusaurus/debug/content', 'a64'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/globalData',
-    component: ComponentCreator('/kb/__docusaurus/debug/globalData', '5dc'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/metadata',
-    component: ComponentCreator('/kb/__docusaurus/debug/metadata', '368'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/registry',
-    component: ComponentCreator('/kb/__docusaurus/debug/registry', 'a76'),
-    exact: true
-  },
-  {
-    path: '/kb/__docusaurus/debug/routes',
-    component: ComponentCreator('/kb/__docusaurus/debug/routes', '626'),
-    exact: true
-  },
-  {
     path: '/kb/blog',
     component: ComponentCreator('/kb/blog', '266'),
     exact: true
@@ -98,8 +63,13 @@ export default [
     exact: true
   },
   {
+    path: '/kb/search',
+    component: ComponentCreator('/kb/search', '318'),
+    exact: true
+  },
+  {
     path: '/kb/docs',
-    component: ComponentCreator('/kb/docs', 'a16'),
+    component: ComponentCreator('/kb/docs', '786'),
     routes: [
       {
         path: '/kb/docs/category/self-supervision',
@@ -134,6 +104,18 @@ export default [
       {
         path: '/kb/docs/optimization',
         component: ComponentCreator('/kb/docs/optimization', '3a1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/resources',
+        component: ComponentCreator('/kb/docs/resources', '8ff'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/self-supervision/contrastive',
+        component: ComponentCreator('/kb/docs/self-supervision/contrastive', '445'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -188,6 +170,108 @@ export default [
       {
         path: '/kb/docs/temp/tutorial-extras/translate-your-site',
         component: ComponentCreator('/kb/docs/temp/tutorial-extras/translate-your-site', '761'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/ann',
+        component: ComponentCreator('/kb/docs/todo/ann', 'a97'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/detection',
+        component: ComponentCreator('/kb/docs/todo/detection', 'b40'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/diffusion',
+        component: ComponentCreator('/kb/docs/todo/diffusion', 'f0f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/distill',
+        component: ComponentCreator('/kb/docs/todo/distill', '35f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/few-shot',
+        component: ComponentCreator('/kb/docs/todo/few-shot', 'cd9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/imitation-learning',
+        component: ComponentCreator('/kb/docs/todo/imitation-learning', '46e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/label-noise',
+        component: ComponentCreator('/kb/docs/todo/label-noise', 'c83'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/long-tail',
+        component: ComponentCreator('/kb/docs/todo/long-tail', '8b3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/multi-label',
+        component: ComponentCreator('/kb/docs/todo/multi-label', '060'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/multi-modal',
+        component: ComponentCreator('/kb/docs/todo/multi-modal', '852'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/multi-task',
+        component: ComponentCreator('/kb/docs/todo/multi-task', 'e2b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/nerf',
+        component: ComponentCreator('/kb/docs/todo/nerf', '755'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/ocr',
+        component: ComponentCreator('/kb/docs/todo/ocr', '764'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/retrieval-augmented',
+        component: ComponentCreator('/kb/docs/todo/retrieval-augmented', 'c69'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/segmentation',
+        component: ComponentCreator('/kb/docs/todo/segmentation', 'a26'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/semisup',
+        component: ComponentCreator('/kb/docs/todo/semisup', '0c3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/kb/docs/todo/synthetic-data',
+        component: ComponentCreator('/kb/docs/todo/synthetic-data', '5cd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

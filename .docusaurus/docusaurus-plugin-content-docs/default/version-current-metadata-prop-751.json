@@ -22,7 +22,13 @@
         "items": [
           {
             "type": "link",
-            "label": "Masked Autoencoders",
+            "label": "Contrastive Self Supervised Learning",
+            "href": "/kb/docs/self-supervision/contrastive",
+            "docId": "self-supervision/contrastive"
+          },
+          {
+            "type": "link",
+            "label": "Masked Image Modeling",
             "href": "/kb/docs/self-supervision/maes",
             "docId": "self-supervision/maes"
           }
@@ -55,6 +61,12 @@
         "label": "Optimization",
         "href": "/kb/docs/optimization",
         "docId": "optimization"
+      },
+      {
+        "type": "link",
+        "label": "Learning Resources",
+        "href": "/kb/docs/resources",
+        "docId": "resources"
       },
       {
         "type": "category",
@@ -129,6 +141,116 @@
             "href": "/kb/docs/category/tutorial---extras"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "todo",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "ann",
+            "href": "/kb/docs/todo/ann",
+            "docId": "todo/ann"
+          },
+          {
+            "type": "link",
+            "label": "detection",
+            "href": "/kb/docs/todo/detection",
+            "docId": "todo/detection"
+          },
+          {
+            "type": "link",
+            "label": "diffusion",
+            "href": "/kb/docs/todo/diffusion",
+            "docId": "todo/diffusion"
+          },
+          {
+            "type": "link",
+            "label": "distill",
+            "href": "/kb/docs/todo/distill",
+            "docId": "todo/distill"
+          },
+          {
+            "type": "link",
+            "label": "few-shot",
+            "href": "/kb/docs/todo/few-shot",
+            "docId": "todo/few-shot"
+          },
+          {
+            "type": "link",
+            "label": "imitation-learning",
+            "href": "/kb/docs/todo/imitation-learning",
+            "docId": "todo/imitation-learning"
+          },
+          {
+            "type": "link",
+            "label": "label-noise",
+            "href": "/kb/docs/todo/label-noise",
+            "docId": "todo/label-noise"
+          },
+          {
+            "type": "link",
+            "label": "long-tail",
+            "href": "/kb/docs/todo/long-tail",
+            "docId": "todo/long-tail"
+          },
+          {
+            "type": "link",
+            "label": "multi-label",
+            "href": "/kb/docs/todo/multi-label",
+            "docId": "todo/multi-label"
+          },
+          {
+            "type": "link",
+            "label": "multi-modal",
+            "href": "/kb/docs/todo/multi-modal",
+            "docId": "todo/multi-modal"
+          },
+          {
+            "type": "link",
+            "label": "multi-task",
+            "href": "/kb/docs/todo/multi-task",
+            "docId": "todo/multi-task"
+          },
+          {
+            "type": "link",
+            "label": "nerf",
+            "href": "/kb/docs/todo/nerf",
+            "docId": "todo/nerf"
+          },
+          {
+            "type": "link",
+            "label": "ocr",
+            "href": "/kb/docs/todo/ocr",
+            "docId": "todo/ocr"
+          },
+          {
+            "type": "link",
+            "label": "Retrieval Augmented models",
+            "href": "/kb/docs/todo/retrieval-augmented",
+            "docId": "todo/retrieval-augmented"
+          },
+          {
+            "type": "link",
+            "label": "segmentation",
+            "href": "/kb/docs/todo/segmentation",
+            "docId": "todo/segmentation"
+          },
+          {
+            "type": "link",
+            "label": "semisup",
+            "href": "/kb/docs/todo/semisup",
+            "docId": "todo/semisup"
+          },
+          {
+            "type": "link",
+            "label": "synthetic-data",
+            "href": "/kb/docs/todo/synthetic-data",
+            "docId": "todo/synthetic-data"
+          }
+        ]
       }
     ]
   },
@@ -145,10 +267,22 @@
       "description": "Optimizers",
       "sidebar": "tutorialSidebar"
     },
+    "resources": {
+      "id": "resources",
+      "title": "Learning Resources",
+      "description": "Books",
+      "sidebar": "tutorialSidebar"
+    },
+    "self-supervision/contrastive": {
+      "id": "self-supervision/contrastive",
+      "title": "Contrastive Self Supervised Learning",
+      "description": "Papers",
+      "sidebar": "tutorialSidebar"
+    },
     "self-supervision/maes": {
       "id": "self-supervision/maes",
-      "title": "Masked Autoencoders",
-      "description": "",
+      "title": "Masked Image Modeling",
+      "description": "Masked Autoencoders",
       "sidebar": "tutorialSidebar"
     },
     "temp/tutorial-basics/congratulations": {
@@ -197,6 +331,108 @@
       "id": "temp/tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/ann": {
+      "id": "todo/ann",
+      "title": "ann",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/detection": {
+      "id": "todo/detection",
+      "title": "detection",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/diffusion": {
+      "id": "todo/diffusion",
+      "title": "diffusion",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/distill": {
+      "id": "todo/distill",
+      "title": "distill",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/few-shot": {
+      "id": "todo/few-shot",
+      "title": "few-shot",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/imitation-learning": {
+      "id": "todo/imitation-learning",
+      "title": "imitation-learning",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/label-noise": {
+      "id": "todo/label-noise",
+      "title": "label-noise",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/long-tail": {
+      "id": "todo/long-tail",
+      "title": "long-tail",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/multi-label": {
+      "id": "todo/multi-label",
+      "title": "multi-label",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/multi-modal": {
+      "id": "todo/multi-modal",
+      "title": "multi-modal",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/multi-task": {
+      "id": "todo/multi-task",
+      "title": "multi-task",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/nerf": {
+      "id": "todo/nerf",
+      "title": "nerf",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/ocr": {
+      "id": "todo/ocr",
+      "title": "ocr",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/retrieval-augmented": {
+      "id": "todo/retrieval-augmented",
+      "title": "Retrieval Augmented models",
+      "description": "Vision",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/segmentation": {
+      "id": "todo/segmentation",
+      "title": "segmentation",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/semisup": {
+      "id": "todo/semisup",
+      "title": "semisup",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "todo/synthetic-data": {
+      "id": "todo/synthetic-data",
+      "title": "synthetic-data",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "vision-transformers/transformers": {

@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/kb/docs/temp/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "ann",
+    "permalink": "/kb/docs/todo/ann"
   }
 }

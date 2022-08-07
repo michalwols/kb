@@ -1,0 +1,24 @@
+{
+  "unversionedId": "todo/nerf",
+  "id": "todo/nerf",
+  "title": "nerf",
+  "description": "",
+  "source": "@site/docs/todo/nerf.mdx",
+  "sourceDirName": "todo",
+  "slug": "/todo/nerf",
+  "permalink": "/kb/docs/todo/nerf",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/todo/nerf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-task",
+    "permalink": "/kb/docs/todo/multi-task"
+  },
+  "next": {
+    "title": "ocr",
+    "permalink": "/kb/docs/todo/ocr"
+  }
+}

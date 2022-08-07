@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wip/diffusion",
+  "id": "wip/diffusion",
+  "title": "diffusion",
+  "description": "",
+  "source": "@site/docs/wip/diffusion.mdx",
+  "sourceDirName": "wip",
+  "slug": "/wip/diffusion",
+  "permalink": "/kb/docs/wip/diffusion",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wip/diffusion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "detection",
+    "permalink": "/kb/docs/wip/detection"
+  },
+  "next": {
+    "title": "distill",
+    "permalink": "/kb/docs/wip/distill"
+  }
+}

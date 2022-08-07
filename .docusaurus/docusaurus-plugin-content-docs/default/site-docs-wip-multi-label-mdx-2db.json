@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wip/multi-label",
+  "id": "wip/multi-label",
+  "title": "multi-label",
+  "description": "",
+  "source": "@site/docs/wip/multi-label.mdx",
+  "sourceDirName": "wip",
+  "slug": "/wip/multi-label",
+  "permalink": "/kb/docs/wip/multi-label",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wip/multi-label.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "long-tail",
+    "permalink": "/kb/docs/wip/long-tail"
+  },
+  "next": {
+    "title": "nerf",
+    "permalink": "/kb/docs/wip/nerf"
+  }
+}

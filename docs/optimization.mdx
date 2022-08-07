@@ -2,6 +2,16 @@
 
 ## Optimizers
 
+### SGD + Momentum
+
+### Adam
+
+#### AdamW
+
+
+### LAMB
+
+
 
 ## Warmup
 
@@ -18,6 +28,10 @@
 ## Batch Size vs Learning Rate
 
 
+## Distributed
+
+
+## HyperOpt
 
 ## Tips
 
@@ -48,3 +62,8 @@ https://twitter.com/pbloemesquire/status/1555834823578632195
 > My experience, gained from fine tuning with small data, is that lr schedule dramatically impacts the end result accuracy.  And yes, some form of warmup helps a lot.
 
 https://twitter.com/JFPuget/status/1555836240968093696
+
+
+> Also, gradient clipping hard clip by value at +-3 to 5 is very useful. **I'm generally a fan of aggressive learning rates / schedules + aggressive clipping settings**, with some long decay schedules and adaptive gradient methods (e.g. Adam family) for my model training.
+
+https://twitter.com/kastnerkyle/status/1555565583294496769

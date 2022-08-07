@@ -9,8 +9,8 @@
       "permalink": "/kb/docs/intro"
     },
     "next": {
-      "title": "Masked Autoencoders",
-      "permalink": "/kb/docs/self-supervision/maes"
+      "title": "Contrastive Self Supervised Learning",
+      "permalink": "/kb/docs/self-supervision/contrastive"
     }
   }
 }

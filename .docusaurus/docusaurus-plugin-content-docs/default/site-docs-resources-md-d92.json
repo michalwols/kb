@@ -1,0 +1,24 @@
+{
+  "unversionedId": "resources",
+  "id": "resources",
+  "title": "Learning Resources",
+  "description": "Books",
+  "source": "@site/docs/resources.md",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/kb/docs/resources",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optimization",
+    "permalink": "/kb/docs/optimization"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/kb/docs/category/tutorial---basics"
+  }
+}
