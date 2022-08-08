@@ -1,6 +1,0 @@
-# Hardware
-
-
-## GPUs
-
-### CUDA
