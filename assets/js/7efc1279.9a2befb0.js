@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[4821],{9538:e=>{e.exports=JSON.parse('{"title":"DevOps","slug":"/category/devops","permalink":"/docs/category/devops","navigation":{"previous":{"title":"SQLite","permalink":"/docs/dev/sqlite"},"next":{"title":"Docker","permalink":"/docs/devops/docker"}}}')}}]);

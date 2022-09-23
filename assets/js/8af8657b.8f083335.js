@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[8551],{7345:e=>{e.exports=JSON.parse('{"title":"Software","slug":"/category/software","permalink":"/docs/category/software","navigation":{"previous":{"title":"Imitation Learning","permalink":"/docs/robotics/imitation-learning"},"next":{"title":"Apache Arrow","permalink":"/docs/software/arrow"}}}')}}]);
