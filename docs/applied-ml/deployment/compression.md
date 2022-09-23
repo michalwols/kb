@@ -14,3 +14,8 @@
 ## Knowledge Distillation
 
 [For Knowledge Distillation see this note](../../cv/distill.mdx)
+
+
+## Lectures
+
+https://efficientml.ai/schedule/

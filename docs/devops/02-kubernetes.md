@@ -46,3 +46,24 @@ scheduler            Healthy   ok
 controller-manager   Healthy   ok
 etcd-0               Healthy   {"health":"true"}
 ```
+
+## Best Practices
+
+- https://learnk8s.io/production-best-practices
+
+
+## Troubleshooting
+
+- https://learnk8s.io/troubleshooting-deployments
+
+
+## API Gateway
+
+- https://learnk8s.io/kubernetes-ingress-api-gateway
+- https://www.nginx.com/blog/microservices-march-protect-kubernetes-apis-with-rate-limiting/
+
+
+
+## Learning
+
+- https://learnk8s.io/archive
