@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[4800],{3575:e=>{e.exports=JSON.parse('{"title":"Robotics","slug":"/category/robotics","permalink":"/docs/category/robotics","navigation":{"previous":{"title":"Learning Resources","permalink":"/docs/resources"},"next":{"title":"Imitation Learning","permalink":"/docs/robotics/imitation-learning"}}}')}}]);

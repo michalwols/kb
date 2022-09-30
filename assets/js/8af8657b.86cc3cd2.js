@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[8551],{7345:e=>{e.exports=JSON.parse('{"title":"Software","slug":"/category/software","permalink":"/docs/category/software","navigation":{"previous":{"title":"Visual Search / CBIR","permalink":"/docs/cv/visual-search"},"next":{"title":"Apache Arrow","permalink":"/docs/dev/arrow"}}}')}}]);
