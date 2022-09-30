@@ -39,7 +39,10 @@ https://github.com/tcdi/pgx
 
 
 ## Learning
-
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.htmls)
 - https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
+- [Easy Rust Videos](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+  - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html)
+- [From Python to Rust](https://www.youtube.com/watch?v=Ygk0IMbu2nY)
