@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[794],{5089:e=>{e.exports=JSON.parse('{"title":"Math","slug":"/category/math","permalink":"/docs/category/math","navigation":{"previous":{"title":"backend","permalink":"/docs/dev/webdev/backend"},"next":{"title":"Linear Algebra","permalink":"/docs/math/linear-algebra"}}}')}}]);
