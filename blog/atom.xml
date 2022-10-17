@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://michal.io/blog</id>
-    <title>KB Blog</title>
+    <title>michal.io Blog</title>
     <updated>2022-08-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://michal.io/blog"/>
-    <subtitle>KB Blog</subtitle>
+    <subtitle>michal.io Blog</subtitle>
     <icon>https://michal.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
