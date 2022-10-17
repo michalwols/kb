@@ -16,7 +16,7 @@ https://github.com/666DZY666/micronet
 
 ## Knowledge Distillation
 
-[For Knowledge Distillation see this note](../cv/distill.mdx)
+[For Knowledge Distillation see this note](../distill.mdx)
 
 
 ## Lectures
