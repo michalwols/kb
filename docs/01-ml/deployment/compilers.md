@@ -9,12 +9,16 @@
 
 ## Triton
 
+- [Triton With PyTorch](https://kshitij12345.github.io/pytorch,/triton,/cuda/2022/10/09/triton_with_torch_lib.html)
+
 ## MLIR
 
 ## XLA
 
 
+## AITemplate
 
+https://locust.io/
 
 ---
 

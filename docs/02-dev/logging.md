@@ -7,6 +7,12 @@
 
 - [Fast and flexible observability with canonical log lines](https://stripe.com/blog/canonical-log-lines)
 
+
+## Python Logging
+
+- [picologging - optimized logger](https://github.com/microsoft/picologging )
+
+
 ## Storage
 
 - [GitHub - y-scope/clp: Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression.](https://github.com/y-scope/clp)

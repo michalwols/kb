@@ -11,7 +11,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KB',
+  title: 'michal.io',
   tagline: 'My personal notes on machine learning and computer vision',
   url: 'https://michal.io/',
   baseUrl: '/',
@@ -82,17 +82,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KB',
-        // logo: {
-        //   alt: 'My Site Logo',
-        //   src: 'img/logo.svg',
-        // },
+
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/favicon.ico',
+        },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'KB',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -101,43 +101,6 @@ const config = {
             position: 'right',
           },
         ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Links',
-            items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/michalwols',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/michalwols/kb',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
