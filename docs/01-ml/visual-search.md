@@ -10,7 +10,7 @@
 
 
 - [GitHub - vadimkantorov/metriclearningbench: Metric learning models in PyTorch with results on CUB2011, CARS196, Stanford Online Products](https://github.com/vadimkantorov/metriclearningbench)
-
+- [GitHub - rom1504/clip-retrieval: Easily compute clip embeddings and build a clip retrieval system with them](https://github.com/rom1504/clip-retrieval)
 ## Datasets
 
 - [Met Dataset](https://github.com/nikosips/met)

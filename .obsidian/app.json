@@ -1,0 +1,11 @@
+{
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "build/",
+    "build/assets/",
+    "static/",
+    "src/"
+  ]
+}

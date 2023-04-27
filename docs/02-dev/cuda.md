@@ -5,6 +5,11 @@
 
 [Programming Massively Parallel Processors (2022)](https://www.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-323-91231-0)
 
+[How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
+
+[Programming Heterogeneous Computing Systems with GPUs and other Accelerators (Fall 2022)](https://safari.ethz.ch/projects_and_seminars/fall2022/doku.php?id=heterogeneous_systems)
+
+
 ```cpp
 
 __global__ void kernel();  // define cuda kernel
