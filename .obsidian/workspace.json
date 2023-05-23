@@ -148,6 +148,18 @@
             }
           },
           {
+            "id": "00417662af420a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/01-ml/Tabular Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85d0b3b00f5f4e30",
             "type": "leaf",
             "state": {
@@ -292,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -342,7 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
     "id": "fec2a5f6c83fe0d9",
@@ -358,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01-ml/fine-tuning.md",
+                "file": "docs/01-ml/Tabular Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01-ml/fine-tuning.md",
+                "file": "docs/01-ml/Tabular Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -405,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01-ml/fine-tuning.md"
+                "file": "docs/01-ml/Tabular Machine Learning.md"
               }
             }
           }
@@ -430,9 +442,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "234018164904fb0b",
+  "active": "00417662af420a13",
   "lastOpenFiles": [
     "docs/02-dev/rust.md",
+    "docs/01-ml/ML Scaling.md",
     "docs/01-ml/fine-tuning.md",
     "docs/01-ml/diffusion.mdx",
     "docs/02-dev/pytorch.md",
@@ -450,7 +463,6 @@
     "docs/03-math/optimization.mdx",
     "docs/01-ml/ops/ML Infrastructure.md",
     "docs/02-dev/python.md",
-    "docs/01-ml/ML Scaling.md",
     "docs/02-dev/hardware.mdx",
     "docs/02-dev/cuda.md",
     "docs/02-dev/postgres.mdx",

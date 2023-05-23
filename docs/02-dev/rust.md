@@ -1,5 +1,7 @@
 # Rust
 
+[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
+
 https://blessed.rs/crates
 
 https://fasterthanli.me/articles/a-half-hour-to-learn-rust
