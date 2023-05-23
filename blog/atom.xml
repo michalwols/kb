@@ -2,15 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://michal.io/blog</id>
     <title>michal.io Blog</title>
-    <updated>2022-08-07T00:00:00.000Z</updated>
+    <updated>2022-12-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://michal.io/blog"/>
     <subtitle>michal.io Blog</subtitle>
     <icon>https://michal.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Hello World]]></title>
-        <id>/2022/08/07/Hello</id>
-        <link href="https://michal.io/blog/2022/08/07/Hello"/>
-        <updated>2022-08-07T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[TIL;DR: CLIP Scaling]]></title>
+        <id>/2022/12/17/ TIL</id>
+        <link href="https://michal.io/blog/2022/12/17/ TIL"/>
+        <updated>2022-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[openclip #tildr]]></summary>
+        <content type="html"><![CDATA[<p>#clip #openclip #tildr</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="accelerating-self-supervised-learning-via-efficient-training-strategies"><a href="https://arxiv.org/abs/2212.05611" target="_blank" rel="noopener noreferrer">Accelerating Self-Supervised Learning via Efficient Training Strategies</a><a class="hash-link" href="#accelerating-self-supervised-learning-via-efficient-training-strategies" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="reproducible-scaling-laws-for-contrastive-language-image-learning"><a href="https://arxiv.org/abs/2212.07143" target="_blank" rel="noopener noreferrer">Reproducible scaling laws for contrastive language-image learning</a><a class="hash-link" href="#reproducible-scaling-laws-for-contrastive-language-image-learning" title="Direct link to heading">​</a></h3><ol><li>All previous scaling law research use:<ol><li>private data</li><li>language modeling or vision unimodal tasks</li></ol></li><li>This paper uses:<ol><li>CLIP contrastive image-language pretraining</li><li>LAION public dataset</li></ol></li></ol><p>batch size 86-88K, on 1520 A100 GPUs, using pytorch DDP</p><p>AdamW b1=0.9 b2 = 0.98 weight decay = 0.2</p><p>InfoNCE loss</p><p>bfloat16</p><p>TLDR: it scales</p><p><a href="https://github.com/LAION-AI/scaling-laws-openclip" target="_blank" rel="noopener noreferrer">GitHub - LAION-AI/scaling-laws-openclip: Reproducible scaling laws for contrastive language-image learning</a>
+<a href="https://github.com/LAION-AI/CLIP_benchmark" target="_blank" rel="noopener noreferrer">GitHub - LAION-AI/CLIP_benchmark: CLIP-like model evaluation</a></p>]]></content>
     </entry>
 </feed>

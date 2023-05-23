@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>michal.io Blog</title>
         <link>https://michal.io/blog</link>
         <description>michal.io Blog</description>
-        <lastBuildDate>Sun, 07 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Hello World]]></title>
-            <link>https://michal.io/blog/2022/08/07/Hello</link>
-            <guid>/2022/08/07/Hello</guid>
-            <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[TIL;DR: CLIP Scaling]]></title>
+            <link>https://michal.io/blog/2022/12/17/ TIL</link>
+            <guid>/2022/12/17/ TIL</guid>
+            <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[openclip #tildr]]></description>
+            <content:encoded><![CDATA[<p>#clip #openclip #tildr</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="accelerating-self-supervised-learning-via-efficient-training-strategies"><a href="https://arxiv.org/abs/2212.05611" target="_blank" rel="noopener noreferrer">Accelerating Self-Supervised Learning via Efficient Training Strategies</a><a class="hash-link" href="#accelerating-self-supervised-learning-via-efficient-training-strategies" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="reproducible-scaling-laws-for-contrastive-language-image-learning"><a href="https://arxiv.org/abs/2212.07143" target="_blank" rel="noopener noreferrer">Reproducible scaling laws for contrastive language-image learning</a><a class="hash-link" href="#reproducible-scaling-laws-for-contrastive-language-image-learning" title="Direct link to heading">​</a></h3><ol><li>All previous scaling law research use:<ol><li>private data</li><li>language modeling or vision unimodal tasks</li></ol></li><li>This paper uses:<ol><li>CLIP contrastive image-language pretraining</li><li>LAION public dataset</li></ol></li></ol><p>batch size 86-88K, on 1520 A100 GPUs, using pytorch DDP</p><p>AdamW b1=0.9 b2 = 0.98 weight decay = 0.2</p><p>InfoNCE loss</p><p>bfloat16</p><p>TLDR: it scales</p><p><a href="https://github.com/LAION-AI/scaling-laws-openclip" target="_blank" rel="noopener noreferrer">GitHub - LAION-AI/scaling-laws-openclip: Reproducible scaling laws for contrastive language-image learning</a>
+<a href="https://github.com/LAION-AI/CLIP_benchmark" target="_blank" rel="noopener noreferrer">GitHub - LAION-AI/CLIP_benchmark: CLIP-like model evaluation</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

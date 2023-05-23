@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkb=self.webpackChunkkb||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TIL;DR: CLIP Scaling","permalink":"/blog/2022/12/17/ TIL"}]}')}}]);
