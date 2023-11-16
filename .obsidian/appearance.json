@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal"
+  "accentColor": "#439cdc",
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "translucency": true
 }

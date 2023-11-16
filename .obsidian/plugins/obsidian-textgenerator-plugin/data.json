@@ -1,13 +1,22 @@
 {
-  "api_key": "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",
-  "engine": "gpt-3.5-turbo",
+  "version": "0.5.13",
+  "endpoint": "https://api.openai.com/v1",
+  "models": {},
+  "api_key": "",
+  "encrypt_keys": false,
+  "selectedProvider": "OpenAI Chat (Langchain)",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "prompt": "",
   "showStatusBar": true,
   "outputToBlockQuote": false,
+  "freeCursorOnStreaming": false,
+  "allowJavascriptRun": false,
   "promptsPath": "textgenerator/prompts",
+  "prefix": "\n\n",
+  "tgSelectionLimiter": "^\\*\\*\\*",
+  "stream": true,
   "context": {
     "includeTitle": false,
     "includeStaredBlocks": true,
@@ -17,6 +26,7 @@
     "includeMentions": false,
     "includeHighlights": true
   },
+  "requestTimeout": 300000,
   "options": {
     "generate-text": true,
     "generate-text-with-metadata": true,
@@ -41,6 +51,16 @@
     "stop": ".",
     "showStatus": true
   },
+  "extractorsOptions": {
+    "PDFExtractor": true,
+    "WebPageExtractor": true,
+    "YoutubeExtractor": true,
+    "AudioExtractor": false,
+    "ImageExtractorEmbded": true,
+    "ImageExtractor": true
+  },
   "displayErrorInEditor": true,
-  "models": {}
+  "LLMProviderOptions": {},
+  "LLMProviderOptionsKeysHashed": {},
+  "engine": "gpt-3.5-turbo"
 }

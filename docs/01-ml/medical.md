@@ -9,7 +9,6 @@
 
 [GitHub - SuperSupermoon/MedViLL: MedViLL official code. (Published IEEE JBHI 2021)](https://github.com/SuperSupermoon/MedViLL)
 
-
 ### Medical NLP
 
 [PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text](https://www.mosaicml.com/blog/introducing-pubmed-gpt)

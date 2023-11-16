@@ -7,14 +7,18 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
+  "properties",
   "page-preview",
   "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
-  "starred",
+  "bookmarks",
   "outline",
   "word-count",
-  "file-recovery"
+  "audio-recorder",
+  "file-recovery",
+  "publish"
 ]

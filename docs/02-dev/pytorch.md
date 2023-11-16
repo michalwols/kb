@@ -3,7 +3,6 @@
 
 
 
-
 ## Performance Optimizaitons
 
 - [Performance Tuning Guide — PyTorch Tutorials 2.0.0+cu117 documentation](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html#use-onednn-graph-with-torchscript-for-inference)

@@ -7,7 +7,6 @@
   "symbolListCommand": "@",
   "workspaceListCommand": "+",
   "headingsListCommand": "#",
-  "starredListCommand": "'",
   "commandListCommand": ">",
   "relatedItemsListCommand": "~",
   "strictHeadingsOnly": false,
@@ -64,12 +63,14 @@
   "enableMatchPriorityAdjustments": false,
   "matchPriorityAdjustments": {
     "isOpenInEditor": 0,
-    "isStarred": 0,
     "isRecent": 0,
     "file": 0,
     "alias": 0,
-    "h1": 0
+    "h1": 0,
+    "isBookmarked": 0
   },
   "preserveCommandPaletteLastInput": false,
-  "preserveQuickSwitcherLastInput": false
+  "preserveQuickSwitcherLastInput": false,
+  "version": "1.0.0",
+  "bookmarksListCommand": "'"
 }

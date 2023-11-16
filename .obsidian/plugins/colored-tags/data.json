@@ -1,0 +1,24 @@
+{
+  "chroma": 16,
+  "lightness": 87,
+  "palette": 16,
+  "seed": 0,
+  "knownTags": {
+    "clip": 1,
+    "openclip": 2,
+    "tildr": 3,
+    "ml": 4,
+    "ml/nlp": 1,
+    "ml/nlp/llm": 1,
+    "ml/applied": 2,
+    "ml/applied/med": 1,
+    "ml/ops": 3,
+    "ml/mobile": 4,
+    "ml/contrastive": 5,
+    "log": 5,
+    "dev": 6,
+    "dev/mobile": 1,
+    "dev/react-native": 2
+  },
+  "_version": 2
+}
