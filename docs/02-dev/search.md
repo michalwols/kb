@@ -24,3 +24,4 @@
 
 - [milvus](https://github.com/milvus-io/milvus)
 - [qdrant](https://github.com/qdrant/qdrant)
+- [GitHub - meilisearch/arroy: Annoy-inspired Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage :boom:](https://github.com/meilisearch/arroy)

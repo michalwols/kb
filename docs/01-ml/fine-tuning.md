@@ -13,6 +13,10 @@
 
 - [Parameter-Efficient Fine-Tuning using 🤗 PEFT](https://huggingface.co/blog/peft)
 
+- [[2310.08659] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models](https://arxiv.org/abs/2310.08659)
+- [[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- [[2307.05695] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)
+
 #### Papers
 
 - [[2304.04947] Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)

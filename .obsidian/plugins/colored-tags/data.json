@@ -18,7 +18,10 @@
     "log": 5,
     "dev": 6,
     "dev/mobile": 1,
-    "dev/react-native": 2
+    "dev/react-native": 2,
+    "dev/config": 3,
+    "retrieval": 7,
+    "word-embeddings": 8
   },
   "_version": 2
 }

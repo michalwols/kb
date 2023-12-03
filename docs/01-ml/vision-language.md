@@ -45,6 +45,17 @@ https://github.com/sangminwoo/awesome-vision-and-language
 - [GitHub - facebookresearch/diht: Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training](https://github.com/facebookresearch/diht)
 
 - [GitHub - OliverRensu/DeepMIM](https://github.com/OliverRensu/DeepMIM)
+- [[2311.17049] MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](https://arxiv.org/abs/2311.17049)
+
+- [GitHub - bytedance/fc-clip: [NeurIPS 2023] This repo contains the code for our paper Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://github.com/bytedance/fc-clip)
+- [[2307.16634] CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://arxiv.org/abs/2307.16634)
+- [[2309.05551] OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data](https://arxiv.org/abs/2309.05551)
+
+
+## Vision to Language
+
+- [[2306.07915v3] Image Captioners Are Scalable Vision Learners Too](https://arxiv.org/abs/2306.07915v3)
+- [[2311.03079] CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079)
 
 # Datasets
 

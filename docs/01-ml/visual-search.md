@@ -2,7 +2,9 @@
 
 - [https://github.com/willard-yuan/awesome-cbir-papers](https://github.com/willard-yuan/awesome-cbir-papers)
 
-
+- [[2308.06954] Global Features are All You Need for Image Retrieval and Reranking](https://arxiv.org/abs/2308.06954)
+- [GitHub - ShihaoShao-GH/SuperGlobal: ICCV 2023 Paper Global Features are All You Need for Image Retrieval and Reranking Official Repository](https://github.com/ShihaoShao-GH/SuperGlobal)
+- [[2308.10832] EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://arxiv.org/abs/2308.10832)
 
 - [Recall@K Surrogate](https://github.com/yash0307/RecallatK_surrogate)
 - [GitHub - elias-ramzi/ROADMAP: This repository contains the official implementation of the NeurIPS’21 paper, ROADMAP: Robust and Decomposable Average Precision for Image Retrieval.](https://github.com/elias-ramzi/ROADMAP)

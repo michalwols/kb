@@ -3,7 +3,7 @@
 
 
 
-## Performance Optimizaitons
+## Performance Optimizations
 
 - [Performance Tuning Guide — PyTorch Tutorials 2.0.0+cu117 documentation](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html#use-onednn-graph-with-torchscript-for-inference)
 - [Efficient Training on Multiple GPUs](https://huggingface.co/docs/transformers/perf_train_gpu_many)
@@ -16,8 +16,11 @@
 ### Mixed Precision
 
 - [GitHub - TimDettmers/bitsandbytes: 8-bit CUDA functions for PyTorch](https://github.com/TimDettmers/bitsandbytes/)
+- [GitHub - Azure/MS-AMP: Microsoft Automatic Mixed Precision Library](https://github.com/Azure/MS-AMP)
 
 
+### Quantization
+- [GitHub - pytorch-labs/ao: The torchao repository contains api's and workflows for quantization and pruning gpu models.](https://github.com/pytorch-labs/ao)
 
 ### Data Loading
 
@@ -25,6 +28,8 @@
 - [GitHub - mosaicml/streaming: A Data Streaming Library for Efficient Neural Network Training](https://github.com/mosaicml/streaming)
 
 ### torch.compile
+- [GitHub - pytorch-labs/segment-anything-fast: A batched offline inference oriented version of segment-anything](https://github.com/pytorch-labs/segment-anything-fast)
+- [GitHub - pytorch-labs/gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.](https://github.com/pytorch-labs/gpt-fast)
 
 ### JIT
 
@@ -47,8 +52,12 @@ https://github.com/facebookincubator/AITemplate
 ## Distributed
 
 - https://lambdalabs.com/blog/multi-node-pytorch-distributed-training-guide/
+- [GitHub - pytorch/PiPPy: Pipeline Parallelism for PyTorch](https://github.com/pytorch/pippy)
 
+- [Getting Started with Fully Sharded Data Parallel(FSDP) — PyTorch Tutorials 2.1.1+cu121 documentation](https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html)
+	- [train.py](https://github.com/abacaj/train-with-fsdp/blob/main/train.py)
 
+- [Efficient Training on Multiple GPUs](https://huggingface.co/docs/transformers/main/en/perf_train_gpu_many)
 ## Debugging and Profiling
 
 ### Memory
