@@ -8,211 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31ab6e8876e79b8b",
+            "id": "d537a7ca2074a020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-ml/ann.mdx",
+                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ecf4443314dc2c8",
+            "id": "b19168bb7ea092e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/transformers/vision-transformers.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c805399ca2b00fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/multi-label.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "361db4db39b3e24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/conferences/2023 NeurIPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32b1ccd3313d1c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/large-language-models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e18b8f197e9dcefa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/medical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5448262bedb87c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/selfsup/maes.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50dd832c8b911a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/transformers/vision-transformers.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac8d5689df0f9bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/selfsup/contrastive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1c2a4712956190d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/vision-language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e9d26f84da6b496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3860ba72d8c9934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/Transformer Alternatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e9dd63f1bffdf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/02-dev/pytorch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a9bc9544424b9e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/rec-ret/semantic-search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee5931424c2f1de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/fine-tuning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a3618abffff12ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/rec-ret/recommenders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dacc9f1b094b251a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/01-ml/visual-search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01-ml/vision-language.md"
+                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md"
               }
             }
           }
@@ -291,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 239.5
   },
   "right": {
     "id": "fec2a5f6c83fe0d9",
@@ -307,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01-ml/vision-language.md",
+                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01-ml/vision-language.md",
+                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,8 +179,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1c2a4712956190d",
+  "active": "d537a7ca2074a020",
   "lastOpenFiles": [
+    "Pasted image 20231205130408.png",
+    "Pasted image 20231205130246.png",
+    "Pasted image 20231205123930.png",
+    "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
+    "docs/01-ml/conferences/2023 NeurIPS.md",
+    "docs/01-ml/Transformer Alternatives.md",
+    "Untitled.md",
+    "docs/02-dev/duckdb.md",
+    "docs/02-dev/arrow.mdx",
+    "docs/01-ml/vision-language.md",
     "docs/01-ml/ann.mdx",
     "docs/01-ml/rec-ret/recommenders.md",
     "docs/01-ml/visual-search.md",
@@ -373,15 +198,12 @@
     "docs/03-math/optimization.mdx",
     "docs/01-ml/rec-ret/semantic-search.md",
     "docs/01-ml/Text Embeddings.md",
-    "docs/01-ml/Transformer Alternatives.md",
     "docs/01-ml/resources.md",
-    "docs/01-ml/vision-language.md",
     "docs/01-ml/selfsup/contrastive.md",
     "docs/01-ml/transformers/vision-transformers.mdx",
     "docs/01-ml/transformers/index.mdx",
     "docs/01-ml/medical.md",
     "docs/01-ml/large-language-models.md",
-    "docs/01-ml/conferences/2023 NeurIPS.md",
     "docs/02-dev/pytorch.md",
     "docs/01-ml/multi-label.mdx",
     "docs/01-ml/selfsup/maes.mdx",
@@ -397,11 +219,6 @@
     "docs/01-ml/ops/mobile-inference.md",
     "docs/01-ml/papers/2023-04-14 - Combined Scaling for Zero-shot Transfer Learning.md",
     "docs/01-ml/ops/server-inference.md",
-    "docs/01-ml/papers/reading-list.md",
-    "docs/01-ml/retrieval-augmented.mdx",
-    "docs/01-ml/rl.md",
-    "docs/01-ml/semisup.mdx",
-    "docs/01-ml/tricks.md",
     "docs/02-dev/2022-09-12-07-38-24.png",
     "Untitled.canvas",
     "Screen Shot 2023-04-19 at 1.13.36 PM.png",

@@ -21,7 +21,9 @@
     "dev/react-native": 2,
     "dev/config": 3,
     "retrieval": 7,
-    "word-embeddings": 8
+    "word-embeddings": 8,
+    "vision-language": 9,
+    "mobile": 10
   },
   "_version": 2
 }

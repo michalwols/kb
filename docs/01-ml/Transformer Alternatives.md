@@ -6,3 +6,12 @@
 
 - [[2306.11197] Sparse Modular Activation for Efficient Sequence Modeling](https://arxiv.org/abs/2306.11197)
 - [GitHub - renll/SeqBoat: [NeurIPS 2023] Sparse Modular Activation for Efficient Sequence Modeling](https://github.com/renll/SeqBoat)
+
+
+
+### Monarch Mixer
+[Making Foundation Models More Efficient - Dan Fu | Stanford MLSys #86 - YouTube](https://www.youtube.com/watch?v=IS59IwGLvVs)
+
+
+
+## Mamba
