@@ -23,7 +23,9 @@
     "retrieval": 7,
     "word-embeddings": 8,
     "vision-language": 9,
-    "mobile": 10
+    "mobile": 10,
+    "vit": 11,
+    "selfsup": 12
   },
   "_version": 2
 }

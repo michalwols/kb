@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
+                "file": "docs/01-ml/large-language-models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md"
+                "file": "docs/01-ml/large-language-models.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
+                "file": "docs/01-ml/large-language-models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
+                "file": "docs/01-ml/large-language-models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +181,14 @@
   },
   "active": "d537a7ca2074a020",
   "lastOpenFiles": [
+    "docs/01-ml/research-ideas/Multi Modal as Learning to Rank.md",
+    "docs/01-ml/papers/2023-12-04 - Rejuvenating image-GPT as Strong Visual Representation Learners.md",
+    "docs/01-ml/research-ideas",
+    "docs/01-ml/papers/2023-12-05 - Mamba Linear-Time Sequence Modeling with Selective State Spaces.md",
+    "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
     "Pasted image 20231205130408.png",
     "Pasted image 20231205130246.png",
     "Pasted image 20231205123930.png",
-    "docs/01-ml/papers/2023-12-04 - MobileCLIP - Fast Image-Text Models through Multi-Modal Reinforced Training.md",
     "docs/01-ml/conferences/2023 NeurIPS.md",
     "docs/01-ml/Transformer Alternatives.md",
     "Untitled.md",
@@ -211,14 +215,11 @@
     "docs/01-ml/Image Recognition.md",
     "docs/01-ml/Data Formats for ML.md",
     "docs/01-ml/conferences",
-    "docs/01-ml/graphs.mdx",
     "docs/01-ml/Tabular Machine Learning.md",
     "docs/01-ml/ops/compilers.md",
     "docs/01-ml/ops/compression.md",
     "docs/01-ml/ops/ML Infrastructure.md",
     "docs/01-ml/ops/mobile-inference.md",
-    "docs/01-ml/papers/2023-04-14 - Combined Scaling for Zero-shot Transfer Learning.md",
-    "docs/01-ml/ops/server-inference.md",
     "docs/02-dev/2022-09-12-07-38-24.png",
     "Untitled.canvas",
     "Screen Shot 2023-04-19 at 1.13.36 PM.png",
